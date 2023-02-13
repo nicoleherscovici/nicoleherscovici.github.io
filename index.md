@@ -3,7 +3,7 @@ title:
 feature_text: |
  <h1 style="color:white;">Nicole Herscovici</h1>
   
-feature_image: "https://media.gazetadopovo.com.br/haus/2017/08/altino-arantes-santander-banespa-db511a90.jpg"
+feature_image: "https://blogdosrsiape.com/blogsrsiape/wp-content/uploads/sites/2/2018/02/saompa.png"
 excerpt: ""
 ---
 
