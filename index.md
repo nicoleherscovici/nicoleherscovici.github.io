@@ -1,9 +1,9 @@
 ---
 title: 
 feature_text: |
- <h1 style="color:black;">Nicole Herscovici</h1>
+ <h1 style="color:white;">Nicole Herscovici</h1>
   
-feature_image: "https://pbs.twimg.com/profile_banners/1202411648113369088/1575587858/1500x500"
+feature_image: "https://s2.glbimg.com/Q9DqeEWPoiuIz1B48qlQSKVX50U=/0x0:1920x1080/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2018/4/A/c5nBaZQmiiUfatMjxWyQ/frame-00-00-04.173.jpg"
 excerpt: ""
 ---
 
