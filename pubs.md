@@ -31,7 +31,7 @@ This article reconstructs Fernando Henrique Cardoso’s political thought during
 ##### Conference Papers
 <br>
 **Ports’ War: A Case of Business’ Political Success**<br>
-VII Fórum Brasileiro de P´os-Graduação em Ciência Política (2022)<br>
+VII Fórum Brasileiro de Pós-Graduação em Ciência Política (2022)<br>
 *Awarded best paper* in the studies of Political, Social and Burocratic Elites
 
 
