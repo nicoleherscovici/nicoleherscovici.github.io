@@ -20,7 +20,7 @@ This article contributes to the debate about how to interpret Dilma Rousseff’s
 
 
 ##### Working Papers
-
+<br>
 **Gramsci in refractions: the interpretation of Fernando Henrique Cardoso**, coauthored with Daniela Mussi (UFRJ). <br>
 Submitted to Revista DADOS, 2023.
 
@@ -54,8 +54,9 @@ XI Seminário Discente da Pós-Graduação em Ciência Política da USP (2021)
 <br>
 
 
+
 #### Translations (English to Portuguese)
-<br>
+
 
 **The Twilight of Formal Democracy: Contradictions of Accumulation and the Political Crisis of Neoliberalism**, by Alyson J. Ayers and Alfredo Saad-Filho. <br>
 Translation published as a chapter of the book [*Brasil no inferno global: Capitalismo e Democracia fora dos trilhos* (2022).](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/book/825)
