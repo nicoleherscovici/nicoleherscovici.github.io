@@ -69,7 +69,7 @@ Translation published as a chapter of the book [*Brasil no inferno global: Capit
 [Translation published by Cadernos de Filosofia Alemã: Crítica e Modernidade (2021)](https://www.revistas.usp.br/filosofiaalema/article/view/185864).
 
 
-###### Op-eds
+##### Op-eds
 
 Boletim Lua Nova: [How do business achieve political success? Evidences from the ports’ war](https://boletimluanova.org/como-os-empresarios-obtem-vitorias-politicas/). 2022.
 
