@@ -1,7 +1,7 @@
 ---
 title: 
 feature_text: |
- <h1 style="color:white;">Nicole Herscovici</h1>
+ <h1 style="color:black;">Nicole Herscovici</h1>
   
 feature_image: "https://ckturistando.com.br/wp-content/uploads/2018/11/visita-ao-farol-santander-banespa-altino-arantes-centro-sao-paulo-ckturistando.jpg"
 excerpt: ""
