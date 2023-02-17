@@ -56,7 +56,7 @@ XI Seminário Discente da Pós-Graduação em Ciência Política da USP (2021)
 
 
 #### Translations (English to Portuguese)
-
+<br>
 
 **The Twilight of Formal Democracy: Contradictions of Accumulation and the Political Crisis of Neoliberalism**, by Alyson J. Ayers and Alfredo Saad-Filho. <br>
 Translation published as a chapter of the book [*Brasil no inferno global: Capitalismo e Democracia fora dos trilhos* (2022).](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/book/825)
@@ -70,10 +70,10 @@ Translation published as a chapter of the book [*Brasil no inferno global: Capit
 
 
 ##### Op-eds
-
+<br>
 Boletim Lua Nova: [How do business achieve political success? Evidences from the ports’ war](https://boletimluanova.org/como-os-empresarios-obtem-vitorias-politicas/). 2022.
 
-Boletim Lua Nova: [The giant woke up: The 2013 mass demonstrations and businessl opposition
+Boletim Lua Nova: [The giant woke up: The 2013 mass demonstrations and business opposition
 to Rouseff’s government](https://boletimluanova.org/o-gigante-acordou-manifestacoes-2013-oposicao-dilma/). 2022.
 
 Fórum Cenedic: [American interregnum and the Biden administration: an analysis from Nancy Fraser](https://cenedic.fflch.usp.br/node/68). 2021.
