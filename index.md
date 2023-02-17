@@ -3,7 +3,7 @@ title:
 feature_text: |
  <h1 style="color:white;">Nicole Herscovici</h1>
   
-feature_image: "https://blogdosrsiape.com/blogsrsiape/wp-content/uploads/sites/2/2018/02/saompa.png"
+feature_image: "https://ckturistando.com.br/wp-content/uploads/2018/11/visita-ao-farol-santander-banespa-altino-arantes-centro-sao-paulo-ckturistando.jpg"
 excerpt: ""
 ---
 
