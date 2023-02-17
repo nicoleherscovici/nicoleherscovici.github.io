@@ -9,8 +9,8 @@ description: Here are some links for publications, op-eds, commentary and the li
 ---
 
 
-##### Academic
-
+#### Academic
+<br>
 **Industrial entrepreneurs in Dilma Rousseff’s first term (2011-2014): an analysis from the newspaper Valor Econômico**, co-authored with Gabriel Nunes de Oliveira (USP)
 [Revista Brasileira de Ciência Política, 2022.](https://www.scielo.br/j/rbcpol/a/qJkmrFTQFT7hrkXcb8nKdrG/)
 
@@ -19,26 +19,16 @@ This article contributes to the debate about how to interpret Dilma Rousseff’s
 
 
 
-###### Working Papers
-<br>
+##### Working Papers
 
 **Gramsci in refractions: the interpretation of Fernando Henrique Cardoso**, coauthored with Daniela Mussi (UFRJ). <br>
 Submitted to Revista DADOS, 2023.
 
 
- This article reconstructs Fernando Henrique Cardoso’s political thought during the
-Brazilian military dictatorship and democratic transition (1964-1988), focusing on his
-interpretation and use of Antonio Gramsci’s ideas to analyze state formation, social classes and
-politics in Brazil. The paper argues that the Gramscian concepts are central to Cardoso’s
-political thought in three phases of Gramscian refraction: (i) between 1964 and 1974, in the
-thesis of the Brazilian bourgeoisie's dependent hegemony; (ii) between 1974 and 1983, in the
-argument of the Brazilian state as the “Modern Prince” as a concept for the analysis of the
-agrarian-industrial-military coalition in the post-1964 period; and (iii) from 1983 to 1988, in
-the definition of the Brazilian economic and military elites’ behavior as a authoritarianscletortic transformism in the face of the pressures for the democratization of the political
-regime.
+This article reconstructs Fernando Henrique Cardoso’s political thought during the Brazilian military dictatorship and democratic transition (1964-1988), focusing on his interpretation and use of Antonio Gramsci’s ideas to analyze state formation, social classes and politics in Brazil. The paper argues that the Gramscian concepts are central to Cardoso’s political thought in three phases of Gramscian refraction: (i) between 1964 and 1974, in the thesis of the Brazilian bourgeoisie's dependent hegemony; (ii) between 1974 and 1983, in the argument of the Brazilian state as the “Modern Prince” as a concept for the analysis of the agrarian-industrial-military coalition in the post-1964 period; and (iii) from 1983 to 1988, in the definition of the Brazilian economic and military elites’ behavior as a authoritarianscletortic transformism in the face of the pressures for the democratization of the political regime.
 
 
-###### Conference Papers
+##### Conference Papers
 <br>
 **Ports’ War: A Case of Business’ Political Success**<br>
 VII Fórum Brasileiro de P´os-Graduação em Ciência Política (2022)<br>
@@ -63,8 +53,10 @@ XI Seminário Discente da Pós-Graduação em Ciência Política da USP (2021)
 *Awarded top 10 papers in the International Round*
 <br>
 
-##### Translations (English to Portuguese)
+
+#### Translations (English to Portuguese)
 <br>
+
 **The Twilight of Formal Democracy: Contradictions of Accumulation and the Political Crisis of Neoliberalism**, by Alyson J. Ayers and Alfredo Saad-Filho. <br>
 Translation published as a chapter of the book [*Brasil no inferno global: Capitalismo e Democracia fora dos trilhos* (2022).](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/book/825)
 
