@@ -11,7 +11,7 @@ description: Here are some links for publications, op-eds, commentary and the li
 
 #### Academic
 <br>
-**Industrial entrepreneurs in Dilma Rousseff’s first term (2011-2014): an analysis from the newspaper Valor Econômico**, co-authored with Gabriel Nunes de Oliveira (USP)
+**Industrial entrepreneurs in Dilma Rousseff’s first term (2011-2014): an analysis from the newspaper Valor Econômico**, co-authored with Gabriel Nunes de Oliveira (USP)<br>
 [Revista Brasileira de Ciência Política, 2022.](https://www.scielo.br/j/rbcpol/a/qJkmrFTQFT7hrkXcb8nKdrG/)
 
 
