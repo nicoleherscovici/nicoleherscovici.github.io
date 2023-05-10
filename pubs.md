@@ -25,8 +25,16 @@ Revista DADOS, forthcoming.
 
 This article reconstructs Fernando Henrique Cardoso’s political thought during the Brazilian military dictatorship and democratic transition (1964-1988), focusing on his interpretation and use of Antonio Gramsci’s ideas to analyze state formation, social classes and politics in Brazil. The paper argues that the Gramscian concepts are central to Cardoso’s political thought in three phases of Gramscian refraction: (i) between 1964 and 1974, in the thesis of the Brazilian bourgeoisie's dependent hegemony; (ii) between 1974 and 1983, in the argument of the Brazilian state as the “Modern Prince” as a concept for the analysis of the agrarian-industrial-military coalition in the post-1964 period; and (iii) from 1983 to 1988, in the definition of the Brazilian economic and military elites’ behavior as a authoritarianscletortic transformism in the face of the pressures for the democratization of the political regime.
 
+<br>
 
-##### Conference Papers
+**Aspects of the New Right-Wing Extremism: The Relationship Between Capitalism and Fascism** <br>
+[Revista Dissonância, 2022.](https://dissonanciarevista.wordpress.com/dossie-teoria-critica-e-populismo/).
+
+A book reviw article of Theodor Adorno's Aspects of the New Right-Wing Extremism.
+
+<br>
+
+##### Conference Papers and Awards
 <br>
 **Ports’ War: A Case of Business’ Political Success**<br>
 VII Fórum Brasileiro de Pós-Graduação em Ciência Política (2022)<br>
@@ -34,7 +42,7 @@ VII Fórum Brasileiro de Pós-Graduação em Ciência Política (2022)<br>
 
 
 **The giant woke up: The 2013 Brazilian mass demonstrations and business opposition to Rouseff’s government**<br>
-XII Seminário Discente da Pós-Graduação em Ciência Política da USP (2022)
+XII Seminário Discente da Pós-Graduação em Ciência Política da USP (2022) <br>
 *Awarded best paper* in the studies of Political Theory and Political Thought
 
 
@@ -53,7 +61,6 @@ XI Seminário Discente da Pós-Graduação em Ciência Política da USP (2021)
 <br>
 
 
-
 #### Translations (English to Portuguese)
 <br>
 
@@ -67,6 +74,7 @@ Translation published as a chapter of the book [*Brasil no inferno global: Capit
 **American Interregnum: Nancy Fraser’s interview to Alessandra Spano**<br>
 [Translation published by Cadernos de Filosofia Alemã: Crítica e Modernidade (2021)](https://www.revistas.usp.br/filosofiaalema/article/view/185864).
 
+<br>
 
 ##### Op-eds
 <br>
