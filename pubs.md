@@ -11,7 +11,7 @@ description: Here are some links for publications, op-eds, commentary and the li
 
 #### Academic
 <br>
-**Port's war: a case of business political success**
+**Port's war: a case of business political success**<br>
 [Agenda Política, 2023](https://www.agendapolitica.ufscar.br/index.php/agendapolitica/article/view/791).
 
 
@@ -40,6 +40,7 @@ This article contributes to the debate about how to interpret Dilma Rousseff’s
 A book reviw article of Theodor Adorno's Aspects of the New Right-Wing Extremism.
 
 <br>
+
 
 ##### Conference Papers and Awards
 <br>
@@ -82,6 +83,7 @@ Translation published as a chapter of the book [*Brasil no inferno global: Capit
 [Translation published by Cadernos de Filosofia Alemã: Crítica e Modernidade (2021)](https://www.revistas.usp.br/filosofiaalema/article/view/185864).
 
 <br>
+
 
 ##### Op-eds
 <br>
