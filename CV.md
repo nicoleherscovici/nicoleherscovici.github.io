@@ -8,4 +8,4 @@ description: false
 
 ---
 
-You can download my CV <a href="https://github.com/nicoleherscovici/nicoleherscovici.github.io/blob/main/assets/cv_herscovici_2022.pdf">here</a> - updated as of September 2023.
+You can download my CV <a href="https://drive.google.com/file/d/1AFMwIZFBaqXGyvge_LqzEP8WYtnA50e9/view?usp=sharing">here</a> - updated as of September 2023.
