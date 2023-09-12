@@ -12,14 +12,14 @@ description: Here are some links for publications, op-eds, commentary and the li
 #### Academic
 <br>
 **Port's war: a case of business political success**<br>
-[Agenda Política, 2023](https://www.agendapolitica.ufscar.br/index.php/agendapolitica/article/view/791).
+[Agenda Política, 2023](https://www.agendapolitica.ufscar.br/index.php/agendapolitica/article/view/791)
 
 
 This paper contributes to the research agenda on the role of interest groups in decision-making processes  and,  more  specifically,  around  the conditions  that  favor  or  hinder  the  achievement  of  business political success. A case study was carried out on the Senate Resolution Project n. 72, of 2010, which aimed to zero  the ICMS  rate  on  imported  products, and  thus  put  an  end  to  what  became  known  asthe “ports’ war”. Based on the congruence analysis methodology (Blatter and Blume 2010), we assessed the extent to which the theoretical  expectations  outlined  on  the  relationships  between  the  decision-making  context,  the  strategies adopted and the (un)success obtained were reflected in the empirical case studied. It was possible to characterize the case of the ports’ was as an unlikely case, since the most common cases of business success, especially in tax matters, are those in which the business community acts defensively. The analysis of the approval of PRS 72/10 suggests that the role of the executive administration was decisive for this positive outcome.
 
 <br>
 **Gramsci in refractions: the interpretation of Fernando Henrique Cardoso**, coauthored with Daniela Mussi (UFRJ). <br>
-Revista DADOS, forthcoming.
+Revista DADOS, forthcoming
 
 
 This article reconstructs Fernando Henrique Cardoso’s political thought during the Brazilian military dictatorship and democratic transition (1964-1988), focusing on his interpretation and use of Antonio Gramsci’s ideas to analyze state formation, social classes and politics in Brazil. The paper argues that the Gramscian concepts are central to Cardoso’s political thought in three phases of Gramscian refraction: (i) between 1964 and 1974, in the thesis of the Brazilian bourgeoisie's dependent hegemony; (ii) between 1974 and 1983, in the argument of the Brazilian state as the “Modern Prince” as a concept for the analysis of the agrarian-industrial-military coalition in the post-1964 period; and (iii) from 1983 to 1988, in the definition of the Brazilian economic and military elites’ behavior as a authoritarianscletortic transformism in the face of the pressures for the democratization of the political regime.
@@ -35,7 +35,7 @@ This article contributes to the debate about how to interpret Dilma Rousseff’s
 <br>
 
 **Aspects of the New Right-Wing Extremism: The Relationship Between Capitalism and Fascism** <br>
-[Revista Dissonância, 2022.](https://dissonanciarevista.wordpress.com/dossie-teoria-critica-e-populismo/).
+[Revista Dissonância, 2022](https://dissonanciarevista.wordpress.com/dossie-teoria-critica-e-populismo/)
 
 A book reviw article of Theodor Adorno's Aspects of the New Right-Wing Extremism.
 
