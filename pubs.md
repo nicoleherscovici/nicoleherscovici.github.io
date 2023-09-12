@@ -13,6 +13,8 @@ description: Here are some links for publications, op-eds, commentary and the li
 <br>
 **Port's war: a case of business political success**
 [Agenda Política, 2023](https://www.agendapolitica.ufscar.br/index.php/agendapolitica/article/view/791).
+
+
 This paper contributes to the research agenda on the role of interest groups in decision-making processes  and,  more  specifically,  around  the conditions  that  favor  or  hinder  the  achievement  of  business political success. A case study was carried out on the Senate Resolution Project n. 72, of 2010, which aimed to zero  the ICMS  rate  on  imported  products, and  thus  put  an  end  to  what  became  known  asthe “ports’ war”. Based on the congruence analysis methodology (Blatter and Blume 2010), we assessed the extent to which the theoretical  expectations  outlined  on  the  relationships  between  the  decision-making  context,  the  strategies adopted and the (un)success obtained were reflected in the empirical case studied. It was possible to characterize the case of the ports’ was as an unlikely case, since the most common cases of business success, especially in tax matters, are those in which the business community acts defensively. The analysis of the approval of PRS 72/10 suggests that the role of the executive administration was decisive for this positive outcome.
 
 <br>
