@@ -8,4 +8,4 @@ description: false
 
 ---
 
-You can access my CV <a href="https://drive.google.com/file/d/1Z2WUfIYcc1MGy04Ob-O8tPejD5pZNFEN/view?usp=sharing">here</a> - updated as of September 2023.
+You can access my CV <a href="https://drive.google.com/file/d/1ZTfsPewIa52mhCIUieDkb01h2URCIfZ-/view?usp=sharing">here</a> - updated as of September 2023.
