@@ -19,7 +19,7 @@ This paper contributes to the research agenda on the role of interest groups in 
 
 <br>
 **Gramsci in refractions: the interpretation of Fernando Henrique Cardoso**, coauthored with Daniela Mussi (UFRJ). <br>
-DADOS 68(2), 2025, forthcoming
+[DADOS](https://www.scielo.br/j/dados/) 68(2), 2025, forthcoming
 
 
 This article reconstructs Fernando Henrique Cardoso’s political thought during the Brazilian military dictatorship and democratic transition (1964-1988), focusing on his interpretation and use of Antonio Gramsci’s ideas to analyze state formation, social classes and politics in Brazil. The paper argues that the Gramscian concepts are central to Cardoso’s political thought in three phases of Gramscian refraction: (i) between 1964 and 1974, in the thesis of the Brazilian bourgeoisie's dependent hegemony; (ii) between 1974 and 1983, in the argument of the Brazilian state as the “Modern Prince” as a concept for the analysis of the agrarian-industrial-military coalition in the post-1964 period; and (iii) from 1983 to 1988, in the definition of the Brazilian economic and military elites’ behavior as a authoritarianscletortic transformism in the face of the pressures for the democratization of the political regime.
